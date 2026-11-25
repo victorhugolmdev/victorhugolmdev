@@ -13,14 +13,14 @@ Currently building **ServicePulse** (`Hugo-vhx/servicepulse`) and expanding hand
 ## 🌐 Where to find me
 
 <p align="left">
+  <a href="https://pixel-perfect-match-6801.lovable.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
   <a href="https://github.com/Hugo-vhx">
     <img src="https://img.shields.io/badge/GitHub-Hugo--vhx-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://linkedin.com/in/victorhugo-dev-ti">
     <img src="https://img.shields.io/badge/LinkedIn-victorhugo--dev--ti-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://pixel-perfect-match-6801.lovable.app">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="mailto:victorokhlm@gmail.com">
     <img src="https://img.shields.io/badge/Email-victorokhlm%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
